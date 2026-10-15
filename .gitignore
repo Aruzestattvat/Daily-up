@@ -1,0 +1,22 @@
+# 个人学习记录（含作文、录音、成绩）——不发布
+英语提升/
+录音/
+_selftest/
+
+# 系统与缓存
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时输出
+*.tmp
+*.bak
+~$*

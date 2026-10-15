@@ -114,7 +114,8 @@ python scripts/build_tracker.py \
 
 ## 参考文件
 
-- `references/system-prompt.md`：可直接交付给其他 AI 的通用系统提示词（占位符版）
+- `references/system-prompt.md`：可直接交付给其他 AI 的通用系统提示词（中文，占位符版）
+- `references/system-prompt.en.md`：English system prompt（同样的系统，英文版，便于分享给英文用户）
 - `references/year-plan-template.md`：一年计划模板
 - `references/speaking-ladder.md`：口语开口恐惧阶梯 L1–L6
 - `references/writing-log-template.md`：写作批改台账模板

@@ -6,6 +6,8 @@ license: MIT
 
 # English up · 一年制英语能力提升系统
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 把「制定计划 → 每日推送 → 提交作业 → 标注讲解 → 批改 → 记录 → 周复盘」做成一个可长期运行的闭环。核心不是给一份计划表，而是**每天产出可执行的任务并把学习数据落进文件**。
 
 ## 何时使用

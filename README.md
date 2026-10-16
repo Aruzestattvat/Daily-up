@@ -1,5 +1,9 @@
 # Daily up
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Projects](https://img.shields.io/badge/projects-3-blue.svg)](#daily-up)
+[![English up](https://img.shields.io/badge/English%20up-available-brightgreen.svg)](english-up/SKILL.md)
+
 个人小工具合集。每个子目录都是独立项目，可单独取用。
 
 | 项目 | 一句话 | 状态 | 入口 |

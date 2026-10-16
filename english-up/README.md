@@ -56,7 +56,7 @@ Key ideas: a **two-block schedule** (quiet input at the library, speaking at hom
 ```
 english-up/                        # ← Agent Skill（自包含，可单独拷进技能目录）
 ├── SKILL.md                       # 技能入口（frontmatter: name / description / license）
-├── LICENSE-NOTICE.md              # 版权与许可声明（许可全文在仓库根 ../LICENSE）
+├── LICENSE                        # MIT 全文（本目录自包含，可单独取用）
 ├── references/
 │   ├── system-prompt.md           # 通用系统提示词（中文，占位符版）
 │   ├── system-prompt.en.md        # English system prompt

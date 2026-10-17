@@ -10,7 +10,7 @@
 |---|---|---|---|
 | [english-up](english-up/) | 一年制英语学习工作流（Agent Skill） | ✅ 可用 | [SKILL.md](english-up/SKILL.md) |
 | [focus-search](focus-search/) | 聚焦搜索工具 | 🚧 开发中 | — |
-| [WordAbove](https://github.com/Aruzestattvat/WordAbove) | macOS Spotlight 英汉词典「词在上」（已独立成仓） | ✅ 可用 | [README](https://github.com/Aruzestattvat/WordAbove#readme) |
+| [WordAbove](https://github.com/Aruzestattvat/WordAbove) | macOS Spotlight 中英日本机互译 + 离线词典「词在上」（已独立成仓） | ✅ 可用 | [README](https://github.com/Aruzestattvat/WordAbove#readme) |
 
 ## 约定
 
@@ -23,7 +23,7 @@
 ## 说明：focus-search 与 WordAbove 的关系
 
 本仓库原本预留的第二个项目叫 `focus-search`。实际开发完成的项目是
-**WordAbove（词在上）**——一个 macOS Spotlight 英汉词典，已独立为
+**WordAbove（词在上）**——一个 macOS Spotlight 中英日本机互译 + 离线词典应用，已独立为
 [独立仓库](https://github.com/Aruzestattvat/WordAbove)（保留完整提交历史）。
 
 `focus-search/` 目录保留为占位，用于承载后续的聚焦搜索工具；若决定不再做，删掉该目录并移除本表格对应行即可。
